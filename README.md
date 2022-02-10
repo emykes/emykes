@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Emine Kesici and I am a Data Scientist and Quantitative Researcher with background in applied mathematics. I previously worked as a teaching/research assistant at a higher education institution. I have strong interest in solving complex problems, building narratives around data, and learning new skills.
+My name is Emine Kesici and I am a Data Scientist and Quantitative Researcher with background in applied mathematics. I previously worked as a teaching/research assistant at a higher education institution. I have a strong interest in solving complex problems, building narratives around data, and learning new skills.
 
 <!--
 **emykes/emykes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
